@@ -36,3 +36,7 @@ https://gilmored.github.io/portfolio/
 https://github.com/gilmored/portfolio
 
 ## Screenshots:
+
+<img src="./assets/images/portfolio-ss-1.png">
+<img src="./assets/images/portfolio-ss-2.png">
+<img src="./assets/images/portfolio-ss-3.png">
